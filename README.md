@@ -1,0 +1,1 @@
+Just a simple test app to try hosting an nginx webserver locally with the [passenger](https://phusionpassenger.com) gem. The tutorial and setup guide can be found [here](https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/ownserver/nginx/oss/install_language_runtime.html). 
